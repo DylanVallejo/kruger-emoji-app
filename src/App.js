@@ -1,10 +1,12 @@
 
 import './App.css';
+import EmojiPicker from './components/emojiPicker/EmojiPicker';
+import EmojiPickerInput from './components/emojiPicker/EmojiPickerInput';
 
 function App() {
   return (
     <div className="App">
-      emoji app first commit
+      <EmojiPickerInput/>
     </div>
   );
 }
