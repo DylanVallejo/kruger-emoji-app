@@ -12,7 +12,7 @@ export const data = [
     {
         symbol: "🔥",
         name: "fuego",
-        keywords: "fire hot burn",
+        keywords: "fire hot burn ",
     },
     {
         symbol: "💎",
