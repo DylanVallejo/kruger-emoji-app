@@ -5,6 +5,7 @@
   - In this repository you can find My Proyect.
 
 
+![Screenshot_20230109_091339](https://user-images.githubusercontent.com/99937413/211328163-6663e839-43a6-4572-aa67-13fd16c73670.png)
 
 
 ## Built With
@@ -36,7 +37,7 @@ Use the following steps to run this Portfolio locally:
 
 For a live demo please click on the following link:
 
-https://kruger-emoji.netlify.app
+https://graceful-sfogliatella-4c81c5.netlify.app
 
 ## Authors
 
