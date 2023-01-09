@@ -1,7 +1,7 @@
 
 import {forwardRef,useState,useEffect} from 'react'
 import EmojiSearch from './EmojiSearch'
-import {data as emojiList} from "./data"
+import {data as emojiList} from "./data2"
 import EmojiButton from './EmojiButton'
 import { useRef } from 'react'
 
